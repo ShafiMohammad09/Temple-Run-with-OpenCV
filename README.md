@@ -1,6 +1,5 @@
-# Temple-Run-with-OpenCV
 
-## Project: Active Temple Run: Move to Play
+# Project: Active Temple Run: Move to Play
 
 ### Project Abstract
 Active Temple Run: Move to Play is an interactive version of the popular game Temple Run that incorporates physical movements to control the game, thereby reducing screen time and promoting physical activity among children and adults.
